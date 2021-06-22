@@ -20,7 +20,7 @@ Hope you enjoy it :D
     
     
 Thanksfully to:    
-https://opentdb.com/api.php who build this API    
+https://opentdb.com/api.php creator API    
 https://jquerymobile.com/ project team of jQuery    
 https://openjsf.org/ OpenJS Foundation    
 https://github.com/jquery 
